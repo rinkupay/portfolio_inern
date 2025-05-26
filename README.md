@@ -32,7 +32,7 @@ npm run dev
 
 3. 🚀 Deployment Link
 
-https://vercel.com/rinkus-projects-282ce4d9/portfolio-inern
+https://portfolio-inern.vercel.app/
 
 
 4. 📁 Folder Structure
