@@ -1,13 +1,13 @@
 # 🚀 Next.js Project
 
-This is a **Next.js** project built with React, providing a modern web application setup using server-side rendering, API routes, and full-stack capabilities.
+This is a **Next.js** project built with React, providing a modern web application setup using server-side rendering.
 
 ## 📦 Features
 
 - ⚡ Fast and optimized React rendering with Next.js
 - 📁 Modular component structure
 - ✅ Fully responsive design
-- 🌐 SEO optimized with dynamic meta tags
+
 
 ---
 
